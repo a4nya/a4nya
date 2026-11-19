@@ -1,12 +1,11 @@
-Hi, Aanya here! 
 
-Currently learning:
+Learning:
 - Python
 - SQL
 - HTML
 - CSS
 
-My current/past projects:
+Current/past projects:
 - 2022 - Frontend for Admission Form for school [HTML, CSS]
 - 2025 - Hotel Management System [Python, SQL]
 - 2025 - Book Log [Python, SQL]

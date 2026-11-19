@@ -1,3 +1,6 @@
+playing around :)
+
+last updated: 2025
 
 Learning:
 - Python
@@ -13,6 +16,7 @@ Current/past projects:
 Interests:
 - Game Development
 - UI/UX
+- trading
 
 <!--
 **a4nya/a4nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
